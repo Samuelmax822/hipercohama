@@ -183,13 +183,13 @@ let pdvsJson = [
     {
         name: 'OFF ATUALIZAR 05',
         descripion:'Rotisseria',
-        img: 'imagens/spazio.jpg',
+        img: 'imagens/download.jfif',
         link: 'http://192.168.60.60:9898/normal.html'
     },
     {
         name: 'OFF ATUALIZAR 06',
         descripion:'Rotisseria',
-        img: 'imagens/spazio.jpg',
+        img: 'imagens/download.jfif',
         link: 'http://192.168.60.222:9898/normal.html'
     },
     {
@@ -219,7 +219,7 @@ let pdvsJson = [
     {
         name: 'OFF ATUALIZAR',
         descripion:'A La Carte',
-        img: 'imagens/spazio.jpg',
+        img: 'imagens/download.jfif',
         link: 'http://192.168.60.60:9898/normal.html'
     },
 

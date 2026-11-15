@@ -181,15 +181,15 @@ let pdvsJson = [
         link: 'http://192.168.60.194:9898/normal.html'
     },
     {
-        name: 'OFF ATUALIZAR 05',
+        name: 'PDV 05 - 379',
         descripion:'Rotisseria',
-        img: 'imagens/download.jfif',
-        link: 'http://192.168.60.60:9898/normal.html'
+        img: 'imagens/spazio.jpg',
+        link: 'http://192.168.60.224:9898/normal.html'
     },
     {
-        name: 'OFF ATUALIZAR 06',
+        name: 'PDV 06 - 425',
         descripion:'Rotisseria',
-        img: 'imagens/download.jfif',
+        img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.222:9898/normal.html'
     },
     {

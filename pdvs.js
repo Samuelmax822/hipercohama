@@ -219,7 +219,86 @@ let pdvsJson = [
         img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.60:9898/normal.html'
     },
+
+
+    
+     {
+        name: 'PDV 01 - 301',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.160:9898/normal.html'
+    },
     {
+        name: 'PDV 02 - 416',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.70:9898/normal.html'
+    },
+    {
+        name: 'PDV 03 - 397',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.20:9898/normal.html'
+    },
+    {
+        name: 'PDV 04 - 404',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.45:9898/normal.html'
+    },
+    {
+        name: 'PDV 05 - 315',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.44:9898/normal.html'
+    },
+    {
+        name: 'PDV 06 - 378',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.29:9898/normal.html'
+    },
+    {
+        name: 'PDV 07 - 319',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.217:9898/normal.html'
+    },
+    {
+        name: 'PDV 08 - 427',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.79:9898/normal.html'
+    },
+    {
+        name: 'PDV 09 - 390',
+        descripion:'Area Nova',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.76:9898/normal.html'
+    },
+
+
+
+    
+    
+        {
+        name: 'PDV 01 - 423',
+        descripion:'Boteco',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.129:9898/normal.html'
+    },
+    {
+        name: 'PDV 02 - 380',
+        descripion:'Boteco',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.60.46:9898/normal.html'
+    },
+
+
+
+
+    
+        {
         name: 'PDV - CAFÉ',
         descripion:'Café',
         img: 'imagens/1.jpg',
@@ -233,76 +312,10 @@ let pdvsJson = [
     },
     
     {
-        name: 'PDV - Churros',
+        name: 'PDV CHURROS',
         descripion:'Churros',
         img: 'imagens/1.jpg',
         link: 'http://192.168.60.41:9898/normal.html'
-    },
-     {
-        name: 'PDV 01',
-        descripion:'Area Nova',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.160:9898/normal.html'
-    },
-    {
-        name: 'PDV 02',
-        descripion:'Area Nova',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.70:9898/normal.html'
-    },
-    {
-        name: 'PDV 03',
-        descripion:'Area Nova',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.20:9898/normal.html'
-    },
-    {
-        name: 'PDV 04',
-        descripion:'Area Nova',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.45:9898/normal.html'
-    },
-    {
-        name: 'PDV 05',
-        descripion:'Area Nova',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.44:9898/normal.html'
-    },
-    {
-        name: 'PDV 06',
-        descripion:'Area Nova',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.29:9898/normal.html'
-    },
-    {
-        name: 'PDV 07',
-        descripion:'Area Nova',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.217:9898/normal.html'
-    },
-    {
-        name: 'PDV 08',
-        descripion:'Area Nova',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.79:9898/normal.html'
-    },
-    {
-        name: 'PDV 09',
-        descripion:'Area Nova',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.76:9898/normal.html'
-    },
-        {
-        name: 'PDV 01 - 423',
-        descripion:'Boteco',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.129:9898/normal.html'
-    },
-    {
-        name: 'PDV 02',
-        descripion:'Boteco',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.46:9898/normal.html'
     },
     
     

@@ -1,4 +1,7 @@
 let pdvsJson = [ 
+
+   //--------------------------FRENTE DE LOJA--------------------------------
+    
     {
         name: 'PDV 1 - 413',
         descripion:'Frente de Loja',
@@ -11,12 +14,14 @@ let pdvsJson = [
         img: 'imagens/1.jpg',
         link: 'http://192.168.60.51:9898/normal.html'
     },
+        
     {
         name: 'PDV 3 - 316',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
         link: 'http://192.168.60.163:9898/normal.html'
     },
+            
     {
         name: 'PDV 4 - 403',
         descripion:'Frente de Loja',
@@ -132,92 +137,102 @@ let pdvsJson = [
         link: 'http://192.168.60.161:9898/normal.html'
     },
 
-     {
-        name: 'PDV BARRACA',
-        descripion:'Barraca',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.33:9898/normal.html'
-    },
+    //--------------------------ELETRO--------------------------------
+    
+
     {
         name: 'PDV 02 - 419',
         descripion:'ELETRO',
         img: 'imagens/ELETRO_MATEUS.png',
         link: 'http://192.168.60.78:9898/normal.html'
     },
+            
      {
         name: 'PDV 03 - 396',
         descripion:'ELETRO',
         img: 'imagens/ELETRO_MATEUS.png',
         link: 'http://192.168.60.69:9898/normal.html'
     },
+
+    //--------------------------ROTISSEIRA/RESTAURANTE--------------------------------
+    
     {
-        name: 'PDV 01',
+        name: 'PDV 01 - 305',
         descripion:'Rotisseria',
         img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.191:9898/normal.html'
     },
     {
-        name: 'PDV 02',
+        name: 'PDV 02 - 334',
         descripion:'Rotisseria',
         img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.171:9898/normal.html'
     },
     {
-        name: 'PDV 03',
+        name: 'PDV 03 - 352',
         descripion:'Rotisseria',
         img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.183:9898/normal.html'
     },
     {
-        name: 'PDV 04',
+        name: 'PDV 04 - 414',
         descripion:'Rotisseria',
         img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.194:9898/normal.html'
     },
     {
-        name: 'PDV 05',
+        name: 'OFF ATUALIZAR 05',
         descripion:'Rotisseria',
         img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.60:9898/normal.html'
     },
     {
-        name: 'PDV 06',
+        name: 'OFF ATUALIZAR 06',
         descripion:'Rotisseria',
         img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.222:9898/normal.html'
     },
     {
-        name: 'PDV 07',
+        name: 'PDV 07 - 408',
         descripion:'Rotisseria',
         img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.52:9898/normal.html'
     },
     {
-        name: 'PDV 08',
+        name: 'PDV 08 - 393',
         descripion:'Rotisseria',
         img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.108:9898/normal.html'
     },
+
+    
+  //--------------------------A LA CARTE--------------------------------
+
     
     {
-        name: 'PDV 09',
+        name: 'PDV 09 - 630',
         descripion:'A La Carte',
         img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.34:9898/normal.html'
     },
     
     {
-        name: 'PDV 10',
+        name: 'OFF ATUALIZAR',
         descripion:'A La Carte',
         img: 'imagens/spazio.jpg',
         link: 'http://192.168.60.60:9898/normal.html'
     },
+
+    //--------------------------AREA NOVA--------------------------------
+    
+    
      {
         name: 'PDV 01 - 301',
         descripion:'Area Nova',
         img: 'imagens/1.jpg',
         link: 'http://192.168.60.160:9898/normal.html'
     },
+            
     {
         name: 'PDV 02 - 416',
         descripion:'Area Nova',
@@ -266,6 +281,9 @@ let pdvsJson = [
         img: 'imagens/1.jpg',
         link: 'http://192.168.60.76:9898/normal.html'
     },
+
+    //--------------------------BOTECO--------------------------------
+    
         {
         name: 'PDV 01 - 423',
         descripion:'Boteco',
@@ -278,6 +296,9 @@ let pdvsJson = [
         img: 'imagens/1.jpg',
         link: 'http://192.168.60.46:9898/normal.html'
     },
+
+    //--------------------------UNICOS--------------------------------
+    
         {
         name: 'PDV - CAFÉ',
         descripion:'Café',
